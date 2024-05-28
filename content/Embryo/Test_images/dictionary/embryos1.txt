@@ -1,0 +1,47 @@
+Label 1	:	V
+Label 2	:	V
+Label 3	:	V
+Label 4	:	V
+Label 5	:	V
+Label 6	:	V
+Label 7	:	V
+Label 8	:	V
+Label 9	:	V
+Label 10:	V
+Label 11:	V
+Label 12:	V
+Label 13:	V
+Label 14:	V
+Label 15:	V
+Label 16:	V
+Label 17:	V
+Label 18:	V
+Label 19:	V
+Label 20:	V
+Label 21:	V
+Label 22:	V
+Label 23:	V
+Label 24:	V
+Label 25:	V
+Label 26:	V
+Label 27:	V
+Label 28:	V
+Label 29:	V
+Label 30:	V
+Label 31:	V
+Label 32:	V
+Label 33:	V
+Label 34:	V
+Label 35:	V
+Label 36:	V
+Label 37:	V
+Label 38:	V
+Label 39:	V
+Label 40:	NV
+Label 41:	NV
+Label 42:	NV
+Label 43:	NV
+Label 44:	NV
+Label 45:	V
+Label 46:	V
+Label 47:	V

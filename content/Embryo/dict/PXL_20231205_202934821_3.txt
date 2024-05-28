@@ -1,0 +1,15 @@
+Label 1 : V ; S1
+Label 2 : V ; S1
+Label 3 : V ; S1
+Label 4 : V ; S1
+Label 5 : V ; S1
+Label 6 : V ; S1
+Label 7 : V ; S1
+Label 8 : V ; S1
+Label 9 : V ; S1
+Label 10 : V ; S1
+Label 11 : V ; S1
+Label 12 : NV ; S0
+Label 13 : NV ; S0
+Label 14 : NV ; S0
+Label 15 : NV ; S0

@@ -1,0 +1,2 @@
+criterion,thresh,fp,tp,fn,precision,recall,accuracy,f1,n_true,n_pred,mean_true_score,mean_matched_score,panoptic_quality,by_image
+iou,0.5,6,521,21,0.9886148007590133,0.9612546125461254,0.9507299270072993,0.9747427502338635,542,527,0.8453570819868813,0.8794309758865444,0.8572189680765008,False
