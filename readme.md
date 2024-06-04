@@ -13,26 +13,38 @@ The results demonstrated high F1 scores, accuracy, recall, and precision. Future
 
 # Research done by the Spring 2024 DeVision Team
 ## CEO
-Dr. Peter Wolenski
-
-wolenski@math.lsu.edu
+Dr. Peter Wolenski wolenski@math.lsu.edu
 
 
 ## Assistant Professor
-Dr. Nadejda Drenska
+Dr. Nadejda Drenska ndrenska@lsu.edu
 
-ndrenska@lsu.edu
+
+## Graduate Team Managers:
+Iswarya Sitiraju, Gowri Priya Sunkara
+
+
 ## Mathematics Graduate Students:
+Oluwaferanmi D. Agbolade, Kenneth Betterman, Christian Ennis
 
-
-Oluwaferanmi D. Agbolade, Kenneth Betterman, Christian Ennis, Iswarya Sitiraju, Gowri Priya Sunkara
 
 ## Undergraduate Students:
-
 Erica Clement, Ravyn Johnlouis, Han Nguyen, Yahreia Peeler, Jamar K. Whitfield
 
+## AGGRC
 
-## 
+Director Terrance Tiersch
+
+Assistant Director- Prof. Yue Liu
+
+Post Doc Dr. Jack Koch
+
+## The University of Chicago- Marine Biological Laboratory
+
+Research Assistant: Carl Anderson
+
+https://new-www.mbl.edu/
+
 <br>
 <br>
 
