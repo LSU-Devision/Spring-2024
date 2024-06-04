@@ -8,8 +8,8 @@ The training process, involving an 80-20 split of training and testing datasets,
 
 The results demonstrated high F1 scores, accuracy, recall, and precision. Future plans for Summer 2024 include expanding the classification algorithm to encompass all developmental stages and developing a user-friendly GUI application for laboratory use.
 
----
 
+![Image 0](images/eggs.png)
 
 # Research done by the Spring 2024 DeVision Team
 ## CEO
